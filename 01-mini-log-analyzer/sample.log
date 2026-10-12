@@ -1,0 +1,7 @@
+   INFO Server started
+INFO Client connected
+WARN Connection timeout
+ERROR Permission denied
+INFO Client disconnected
+ERROR File not found
+WARN Memory usage high

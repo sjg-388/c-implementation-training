@@ -1,0 +1,7 @@
+INFO Hello
+DEBUG Test
+ERROR Failed
+
+WARN Retry
+UNKNOWN Message
+INFO Done
